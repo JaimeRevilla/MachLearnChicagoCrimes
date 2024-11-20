@@ -24,3 +24,5 @@ Para mac
 ``` 
     pip3 install -r requirements.txt
 ```
+
+Buscar un modelo que no sea lineal, por ejemplo un random forest
